@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdo\\OneDrive\\Desktop\\REAEAA DEPI FRONT\\reaeaa-depi-frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC041D83-E13D-480D-8A3C-9489661CCA6B}|reaeaa-depi-frontend\\reaeaa-depi-frontend.esproj|c:\\users\\abdo\\onedrive\\desktop\\reaeaa depi front\\reaeaa-depi-frontend\\reaeaa-depi-frontend\\src\\pages\\homepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BC041D83-E13D-480D-8A3C-9489661CCA6B}|reaeaa-depi-frontend\\reaeaa-depi-frontend.esproj|solutionrelative:reaeaa-depi-frontend\\src\\pages\\homepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC041D83-E13D-480D-8A3C-9489661CCA6B}|reaeaa-depi-frontend\\reaeaa-depi-frontend.esproj|c:\\users\\abdo\\onedrive\\desktop\\reaeaa depi front\\reaeaa-depi-frontend\\reaeaa-depi-frontend\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BC041D83-E13D-480D-8A3C-9489661CCA6B}|reaeaa-depi-frontend\\reaeaa-depi-frontend.esproj|solutionrelative:reaeaa-depi-frontend\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Abdo\\OneDrive\\Desktop\\REAEAA DEPI FRONT\\reaeaa-depi-frontend\\reaeaa-depi-frontend\\src\\App.jsx",
+              "RelativeDocumentMoniker": "reaeaa-depi-frontend\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Abdo\\OneDrive\\Desktop\\REAEAA DEPI FRONT\\reaeaa-depi-frontend\\reaeaa-depi-frontend\\src\\App.jsx",
+              "RelativeToolTip": "reaeaa-depi-frontend\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-15T09:15:25.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.jsx",
+              "DocumentMoniker": "C:\\Users\\Abdo\\OneDrive\\Desktop\\REAEAA DEPI FRONT\\reaeaa-depi-frontend\\reaeaa-depi-frontend\\src\\pages\\HomePage.jsx",
+              "RelativeDocumentMoniker": "reaeaa-depi-frontend\\src\\pages\\HomePage.jsx",
+              "ToolTip": "C:\\Users\\Abdo\\OneDrive\\Desktop\\REAEAA DEPI FRONT\\reaeaa-depi-frontend\\reaeaa-depi-frontend\\src\\pages\\HomePage.jsx",
+              "RelativeToolTip": "reaeaa-depi-frontend\\src\\pages\\HomePage.jsx",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-05-15T09:14:50.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

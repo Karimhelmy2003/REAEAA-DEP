@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\REAEAA_DEPI_API.props" />
+</Project>
